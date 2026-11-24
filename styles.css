@@ -29,3 +29,6 @@ footer { margin-top: 2rem; border-top: 1px solid var(--accent); }
 input, select, button { max-width: 100%; }
 nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
 header, main, footer { padding: 0 1rem; }
+
+/* Prices in a colour of their own, so they are easier to find */
+#prices li { color: #0b6e4f; font-weight: 700; }
